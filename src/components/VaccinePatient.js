@@ -1,7 +1,7 @@
 import { publicKey } from "../utilities/jws-utils"
 
 export default {
-    name: 'VaccinePatient'= 'Sylvain',
+    name: 'VaccinePatient',
     data() {
         return {
             showRawDataDialog: false,
