@@ -20,7 +20,7 @@
                 outlined
                 fab
                 dark
-                @click="showValidationDialog = trueeeeee"
+                @click="showValidationDialog = true"
                 x-small
                 color="grey lighten-1"
               >
